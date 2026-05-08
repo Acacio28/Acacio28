@@ -22,7 +22,7 @@
           self.field = "Informatics Engineering"
           self.interests = [
               "Network Basic",
-              "Full-Stack Development",
+           
               "Open Source lover"
           ]
           self.current_focus = {
