@@ -49,7 +49,7 @@ query($login: String!) {
     }
     pullRequests(first: 1) { totalCount }
     issues(first: 1) { totalCount }
-    repositoriesContributedTo(first: 1, contributions: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
+    repositoriesContributedTo(first: 1, includeUserRepositories: false) {
       totalCount
     }
   }
