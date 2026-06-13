@@ -1,0 +1,30 @@
+<svg width="520" height="195" viewBox="0 0 520 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="519" height="194" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="35" font-size="17" font-weight="bold" fill="#2dd4bf">Acacio Elezito Paulo's GitHub Stats</text>
+  
+    <text x="20" y="70" font-size="13" fill="#58a6ff" font-family="sans-serif">★</text>
+    <text x="40" y="70" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif">Total Stars Earned:</text>
+    <text x="290" y="70" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif" text-anchor="start">28</text>
+    <text x="20" y="94" font-size="13" fill="#58a6ff" font-family="sans-serif">🕐</text>
+    <text x="40" y="94" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif">Total Commits (last year):</text>
+    <text x="290" y="94" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif" text-anchor="start">171</text>
+    <text x="20" y="118" font-size="13" fill="#58a6ff" font-family="sans-serif">⇄</text>
+    <text x="40" y="118" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif">Total PRs:</text>
+    <text x="290" y="118" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif" text-anchor="start">21</text>
+    <text x="20" y="142" font-size="13" fill="#58a6ff" font-family="sans-serif">!</text>
+    <text x="40" y="142" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif">Total Issues:</text>
+    <text x="290" y="142" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif" text-anchor="start">0</text>
+    <text x="20" y="166" font-size="13" fill="#58a6ff" font-family="sans-serif">▣</text>
+    <text x="40" y="166" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif">Contributed to (last year):</text>
+    <text x="290" y="166" font-size="13" font-weight="bold" fill="#c9d1d9" font-family="sans-serif" text-anchor="start">3</text>
+  <g transform="translate(450, 100)">
+    <circle r="40" fill="none" stroke="#30363d" stroke-width="5"/>
+    <circle r="40" fill="none" stroke="#2dd4bf" stroke-width="5"
+      stroke-dasharray="213.62830044410592 251.32741228718345" stroke-linecap="round"
+      transform="rotate(-90)"/>
+    <text x="0" y="6" font-size="22" font-weight="bold" fill="#c9d1d9" text-anchor="middle">B-</text>
+  </g>
+</svg>
