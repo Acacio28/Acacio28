@@ -26,7 +26,7 @@ class InformaticsStudent:
 
 me = InformaticsStudent()
 print(me)
-InformaticsStudent | Informatics Engineering | "Silent Coder. Loud Results".>
+InformaticsStudent |"Informatics Engineering"| "Silent Coder. Loud Results".>
 ```
 
 ---
