@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Acacio+Elezito;I+am+a+Software+Developer;Network+Enthusiast;Backend+Developer;UI/UX;Open+Source+Lover;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00f5ff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Acacio+Elezito;Open+Source+Lover;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Akashio28&style=for-the-badge&color=00f5ff" alt="Profile Views"/>
 
