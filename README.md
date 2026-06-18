@@ -7,7 +7,7 @@
 
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="50%"/>
+  <img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="80%"/>
 </div>
 <br/>
 <div alimg ='center'>
