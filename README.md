@@ -6,10 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=Akashio28&style=for-the-badge&color=00f5ff" alt="Profile Views"/>
 
 </div>
-
-## 📊 GitHub Statistics
 <div align="center">
-<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="50%"/>
+  <img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="50%"/>
 </div>
 <br/>
 <div alimg ='center'>
