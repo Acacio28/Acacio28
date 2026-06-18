@@ -9,10 +9,10 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="48%"/>
-<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/streak.svg" alt="GitHub Streak" width="48%"/>
+<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/stats.svg" alt="GitHub Stats" width="50%"/>
 </div>
 <br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/activity-graph.svg" alt="Contribution Graph" width="100%"/>
+<div alimg ='center'>
+<!-- <img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/streak.svg">
+<img src="https://raw.githubusercontent.com/Akashio28/Akashio28/main/assets/"left = '20%'/> -->
 </div>
