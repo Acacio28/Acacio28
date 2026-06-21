@@ -3,22 +3,22 @@
   <rect x="0.5" y="0.5" width="979" height="229" rx="10" fill="#0d1117" stroke="#30363d"/>
 
   <text x="20" y="28" font-size="16" font-weight="bold" fill="#2dd4bf">Most Used Languages</text>
-  <rect x="65" y="35" width="162.9003802034007" height="8" rx="4" fill="#89e051"/><rect x="227.9003802034007" y="35" width="40.352079108329825" height="8" rx="4" fill="#A97BFF"/><rect x="268.2524593117305" y="35" width="22.01599131249617" height="8" rx="4" fill="#3572A5"/><rect x="290.26845062422666" y="35" width="19.47749868949305" height="8" rx="4" fill="#663399"/><rect x="309.74594931371973" y="35" width="8.9166017147311" height="8" rx="4" fill="#5686a5"/><rect x="318.6625510284508" y="35" width="4.852866663580667" height="8" rx="4" fill="#f1e05a"/><rect x="323.51541769203146" y="35" width="1.4845823079685079" height="8" rx="4" fill="#e34c26"/>
+  <rect x="65" y="35" width="160.40419214959968" height="8" rx="4" fill="#89e051"/><rect x="225.40419214959968" y="35" width="42.38892141376429" height="8" rx="4" fill="#A97BFF"/><rect x="267.793113563364" y="35" width="21.598775591860683" height="8" rx="4" fill="#3572A5"/><rect x="289.39188915522465" y="35" width="20.643354308809577" height="8" rx="4" fill="#663399"/><rect x="310.03524346403424" y="35" width="8.747497732463875" height="8" rx="4" fill="#5686a5"/><rect x="318.78274119649814" y="35" width="4.760831704021179" height="8" rx="4" fill="#f1e05a"/><rect x="323.54357290051934" y="35" width="1.4564270994807065" height="8" rx="4" fill="#e34c26"/>
   
     <circle cx="65" cy="66" r="5" fill="#89e051"/>
-    <text x="77" y="70" font-size="12" fill="#c9d1d9">Shell 62.65%</text>
+    <text x="77" y="70" font-size="12" fill="#c9d1d9">Shell 61.69%</text>
     <circle cx="230" cy="66" r="5" fill="#A97BFF"/>
-    <text x="242" y="70" font-size="12" fill="#c9d1d9">Kotlin 15.52%</text>
+    <text x="242" y="70" font-size="12" fill="#c9d1d9">Kotlin 16.30%</text>
     <circle cx="65" cy="88" r="5" fill="#3572A5"/>
-    <text x="77" y="92" font-size="12" fill="#c9d1d9">Python 8.47%</text>
+    <text x="77" y="92" font-size="12" fill="#c9d1d9">Python 8.31%</text>
     <circle cx="230" cy="88" r="5" fill="#663399"/>
-    <text x="242" y="92" font-size="12" fill="#c9d1d9">CSS 7.49%</text>
+    <text x="242" y="92" font-size="12" fill="#c9d1d9">CSS 7.94%</text>
     <circle cx="65" cy="110" r="5" fill="#5686a5"/>
-    <text x="77" y="114" font-size="12" fill="#c9d1d9">GLSL 3.43%</text>
+    <text x="77" y="114" font-size="12" fill="#c9d1d9">GLSL 3.36%</text>
     <circle cx="230" cy="110" r="5" fill="#f1e05a"/>
-    <text x="242" y="114" font-size="12" fill="#c9d1d9">JavaScript 1.87%</text>
+    <text x="242" y="114" font-size="12" fill="#c9d1d9">JavaScript 1.83%</text>
     <circle cx="65" cy="132" r="5" fill="#e34c26"/>
-    <text x="77" y="136" font-size="12" fill="#c9d1d9">HTML 0.57%</text>
+    <text x="77" y="136" font-size="12" fill="#c9d1d9">HTML 0.56%</text>
 
   <line x1="370" y1="20" x2="370" y2="210" stroke="#30363d"/>
 
@@ -36,9 +36,9 @@
     <text x="372" y="64" font-size="10" fill="#8b949e" text-anchor="end">40</text>
     <line x1="380" y1="30" x2="940" y2="30" stroke="#30363d" stroke-dasharray="2,2"/>
     <text x="372" y="34" font-size="10" fill="#8b949e" text-anchor="end">50</text>
-  <polygon points="380,180 380.00,180.00 398.67,180.00 417.33,180.00 436.00,180.00 454.67,177.00 473.33,180.00 492.00,180.00 510.67,180.00 529.33,180.00 548.00,171.00 566.67,168.00 585.33,180.00 604.00,180.00 622.67,177.00 641.33,180.00 660.00,180.00 678.67,180.00 697.33,180.00 716.00,171.00 734.67,180.00 753.33,171.00 772.00,180.00 790.67,156.00 809.33,138.00 828.00,165.00 846.67,171.00 865.33,180.00 884.00,177.00 902.67,30.00 921.33,177.00 940.00,177.00  940,180" fill="#2dd4bf" fill-opacity="0.15"/>
-  <polyline points="380.00,180.00 398.67,180.00 417.33,180.00 436.00,180.00 454.67,177.00 473.33,180.00 492.00,180.00 510.67,180.00 529.33,180.00 548.00,171.00 566.67,168.00 585.33,180.00 604.00,180.00 622.67,177.00 641.33,180.00 660.00,180.00 678.67,180.00 697.33,180.00 716.00,171.00 734.67,180.00 753.33,171.00 772.00,180.00 790.67,156.00 809.33,138.00 828.00,165.00 846.67,171.00 865.33,180.00 884.00,177.00 902.67,30.00 921.33,177.00 940.00,177.00" fill="none" stroke="#2dd4bf" stroke-width="2"/>
-  <text x="380" y="195" font-size="9" fill="#8b949e" text-anchor="middle">21</text><text x="417.3333333333333" y="195" font-size="9" fill="#8b949e" text-anchor="middle">23</text><text x="454.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">25</text><text x="492" y="195" font-size="9" fill="#8b949e" text-anchor="middle">27</text><text x="529.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">29</text><text x="566.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">31</text><text x="604" y="195" font-size="9" fill="#8b949e" text-anchor="middle">2</text><text x="641.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">4</text><text x="678.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">6</text><text x="716" y="195" font-size="9" fill="#8b949e" text-anchor="middle">8</text><text x="753.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">10</text><text x="790.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">12</text><text x="828" y="195" font-size="9" fill="#8b949e" text-anchor="middle">14</text><text x="865.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">16</text><text x="902.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">18</text><text x="940" y="195" font-size="9" fill="#8b949e" text-anchor="middle">20</text>
+  <polygon points="380,180 380.00,180.00 398.67,180.00 417.33,180.00 436.00,177.00 454.67,180.00 473.33,180.00 492.00,180.00 510.67,180.00 529.33,171.00 548.00,168.00 566.67,180.00 585.33,180.00 604.00,177.00 622.67,180.00 641.33,180.00 660.00,180.00 678.67,180.00 697.33,171.00 716.00,180.00 734.67,171.00 753.33,180.00 772.00,156.00 790.67,138.00 809.33,165.00 828.00,171.00 846.67,180.00 865.33,177.00 884.00,30.00 902.67,177.00 921.33,141.00 940.00,150.00  940,180" fill="#2dd4bf" fill-opacity="0.15"/>
+  <polyline points="380.00,180.00 398.67,180.00 417.33,180.00 436.00,177.00 454.67,180.00 473.33,180.00 492.00,180.00 510.67,180.00 529.33,171.00 548.00,168.00 566.67,180.00 585.33,180.00 604.00,177.00 622.67,180.00 641.33,180.00 660.00,180.00 678.67,180.00 697.33,171.00 716.00,180.00 734.67,171.00 753.33,180.00 772.00,156.00 790.67,138.00 809.33,165.00 828.00,171.00 846.67,180.00 865.33,177.00 884.00,30.00 902.67,177.00 921.33,141.00 940.00,150.00" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+  <text x="380" y="195" font-size="9" fill="#8b949e" text-anchor="middle">22</text><text x="417.3333333333333" y="195" font-size="9" fill="#8b949e" text-anchor="middle">24</text><text x="454.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">26</text><text x="492" y="195" font-size="9" fill="#8b949e" text-anchor="middle">28</text><text x="529.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">30</text><text x="566.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">1</text><text x="604" y="195" font-size="9" fill="#8b949e" text-anchor="middle">3</text><text x="641.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">5</text><text x="678.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">7</text><text x="716" y="195" font-size="9" fill="#8b949e" text-anchor="middle">9</text><text x="753.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">11</text><text x="790.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">13</text><text x="828" y="195" font-size="9" fill="#8b949e" text-anchor="middle">15</text><text x="865.3333333333334" y="195" font-size="9" fill="#8b949e" text-anchor="middle">17</text><text x="902.6666666666667" y="195" font-size="9" fill="#8b949e" text-anchor="middle">19</text><text x="940" y="195" font-size="9" fill="#8b949e" text-anchor="middle">21</text>
   <text x="660" y="225" font-size="10" fill="#8b949e" text-anchor="middle">Days</text>
   <text x="15" y="105" font-size="10" fill="#8b949e" text-anchor="middle" transform="rotate(-90, 15, 105)">Contributions</text>
 </svg>
